@@ -1,4 +1,4 @@
-markdown# Causal Inference vs ML in Medical Treatment Data
+# Causal Inference vs ML in Medical Treatment Data
 
 A demonstration of why standard machine learning models produce 
 dangerously wrong conclusions in medical data — and how causal 
