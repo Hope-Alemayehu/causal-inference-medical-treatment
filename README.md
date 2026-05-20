@@ -175,10 +175,10 @@ find inside that population don't exist in the real world.
 Open directly in Google Colab:
 
 Notebook 1 — Causal Inference:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1Rdsq15UoMLDIJqwCP4WR1BYdRg6UHH14?usp=sharing])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rdsq15UoMLDIJqwCP4WR1BYdRg6UHH14?usp=sharing)
 
 Notebook 2 — Bayesian Network:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([(https://colab.research.google.com/drive/1Z0Y4HJCAR6d95TtnTTTuwY61zjussYWv#scrollTo=3tZEgPQwLROb)])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1Z0Y4HJCAR6d95TtnTTTuwY61zjussYWv#scrollTo=3tZEgPQwLROb))
 
 Or clone and run locally:
 
